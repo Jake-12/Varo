@@ -6,6 +6,7 @@ This is my first open-source tool, created to utilize my learning. This is a bas
 -----
 
 #### Features:
+-  Multiple Themes
 -  Connect to Console
 -  Show & Display Console Information
 -  Send a custom XNotify Message
