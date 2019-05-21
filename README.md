@@ -12,4 +12,5 @@ This is my first open-source tool, created to utilize my learning. This is a bas
 
 #### Contributors
 ~𝑱𝒂𝒌𝒆#9365 | Developer
+
 ~**Simple#9999** | Helper 
