@@ -15,7 +15,7 @@ This is my first open-source tool, created to utilize my learning. This is a bas
 
 #### Contributors:
 
-- 𝑱𝒂𝒌𝒆#9365 | Developer
+- **𝑱𝒂𝒌𝒆#9365** | Developer
 ---------
 - **XposeD420#1048** | Developer
 ---------
@@ -29,5 +29,5 @@ This is my first open-source tool, created to utilize my learning. This is a bas
 -----
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jake-12] has waived all copyright and related or neighboring rights to this work.
+- To the extent possible under law, *Jake-12* has waived all copyright and related or neighboring rights to this work.
 
