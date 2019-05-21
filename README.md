@@ -1,4 +1,4 @@
-***Varo Tool:***
+#### ***Varo Tool:***
 > An RTM Tool for Modified Xbox 360 Consoles.
 ---------
 This is my first open-source tool, created to utilize my learning. This is a basic tool that has the features listed below. This is an in-progress tool and is not yet complete.
@@ -25,7 +25,7 @@ This is my first open-source tool, created to utilize my learning. This is a bas
 
 -----
 
-## License
+#### License:
 -----
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
