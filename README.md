@@ -15,13 +15,13 @@ This is my first open-source tool, created to utilize my learning. This is a bas
 
 #### Contributors:
 
-~𝑱𝒂𝒌𝒆#9365 | Developer
+- 𝑱𝒂𝒌𝒆#9365 | Developer
 ---------
-~**XposeD420#1048** | Developer
+- **XposeD420#1048** | Developer
 ---------
-~**Simple#9999** | Helper 
+- **Simple#9999** | Helper 
 ---------
-~Contributions are always welcome!
+- Contributions are always welcome!
 
 -----
 
