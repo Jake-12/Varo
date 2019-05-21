@@ -1,4 +1,4 @@
-Varo Tool
+*Varo Tool:
 ---------
 This is my first open-source tool, created to utilize my learning. This is a basic tool that has the features listed below. This is an in-progress tool and is not yet complete.
 
